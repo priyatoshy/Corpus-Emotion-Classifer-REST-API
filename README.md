@@ -4,4 +4,4 @@
 
 •Allows User Registration and Reviews
 
-•Based on Natural Language Processsing
+•Based on Natural Language Processing
